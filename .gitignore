@@ -2,12 +2,12 @@
 
 .project
 
-.settings/org.eclipse.core.resources.prefs
-
-.settings/org.eclipse.jdt.core.prefs
-
-.settings/org.eclipse.m2e.core.prefs
+.settings
 target/
 
 .classpath
+
 .iml
+.classpath
+**/*.iml
+out/
