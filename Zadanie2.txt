@@ -1,0 +1,9 @@
+Vytvorte program, ktory pouzivatelovi ponukne zoznam geometrickych utvarov, 
+pouzivatel si vyberie geometricky utvar a program ho poziada o zadanie 
+potrebnych rozmerov. Po zadani rozmerov pouzivatelom program vypise 
+"protokol" pre dany geometricky utvar. Protokol bude obsahovat pekny vypis 
+nazvu utvaru, rozmerov utvaru a dalsich hodnot, ktore mozno pre dany utvar 
+vypocitat, cize napr. plocha, objem, povrch, sucet hran, povrch stran, 
+uhlopriecky a pod.
+Nove java triedy pre geometricke utvary sa musia dat pridavat bez potreby 
+rekompilacie hlavnej triedy programu.
